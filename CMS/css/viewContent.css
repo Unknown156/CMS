@@ -1,0 +1,12 @@
+.table-responsive {
+    border: 1px solid #ededed;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.table td, thead th {
+    border: 1px solid #ededed;
+}
+
+th#date {
+    width: 10%;
+}
